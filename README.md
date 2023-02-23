@@ -13,7 +13,7 @@ The sample e-commerce site is one for books of different genre. The site logo an
 
 
 ## Technologies
-This was made using HTML, CSS and a bit of JavaScript. It also makes use of open-source frameworks such as Bootstrap and Font Awesome.
+This was made using HTML, CSS and a bit of JavaScript. It also makes use of open-source frameworks/libraries such as Bootstrap, Font Awesome and jQuery.
 
 
 ## Setup
