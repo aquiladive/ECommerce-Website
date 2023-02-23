@@ -17,7 +17,7 @@ This was made using HTML, CSS and a bit of JavaScript. It also makes use of open
 
 
 ## Setup
-None. Open "mainpage.html" to start browsing the site from its main page.
+None. Download all the files, then open "mainpage.html" to start browsing the site from its main page. It is best viewed using a laptop or computer, as the site pages have not been optimised for different screens.
 
 
 ## Other Info
