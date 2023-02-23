@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+}
+
+#exampleModal{
+    display: block;
+}
+
+.pay{
+    font-size: larger;
+}
+
+a{
+    text-decoration: none;
+}
+
+.modal-link{
+    color: black;
+}
+
+.modal-link:hover{
+    color:mediumblue;
+    text-decoration: underline;
+}
+
+.modal-link1 {
+    color: white;
+}
+
+.return {
+    display: none;
+    text-align: center;
+}

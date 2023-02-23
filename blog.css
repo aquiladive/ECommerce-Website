@@ -1,0 +1,112 @@
+.navbar{
+    background-color: midnightblue;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.dropdown{
+    text-align: right;
+}
+
+li{
+    list-style-type: none;
+}
+
+.heading{
+    padding-top: 120px;
+    text-align: center;
+    color: midnightblue;
+}
+
+.h31{
+    font-family: Segoe Script;
+    display: inline-block;
+}
+
+.h32{
+    font-family: MV Boli;
+    display: inline-block;
+}
+
+.h33{
+    display: inline-block;
+}
+
+.blog-sec{
+    padding: 0px 20px 30px 50px;
+}
+
+.col-md-10 {
+    padding-right: 30px;
+    border-style: none solid none none;
+    border-right-color: midnightblue;
+    border-right-width: 2px;
+}
+
+.blog-sec .row{
+    padding-top: 20px;
+}
+
+.col-md-2{
+    float: right;
+    padding-left: 50px;
+}
+
+.blog-sec .card .blog-img{
+    overflow: hidden;
+    height: 250px;
+}
+
+.blog-sec .card{
+    height: 550px;
+}
+
+.blog-sec .blog-content{
+    padding: 20px;
+}
+
+.btn-style{
+    text-decoration: none;
+    background-image: linear-gradient(90deg, blue, indigo);
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10px;
+    box-shadow: 0px 3px 5px 0px indigo;
+}
+
+.btn-style:hover{
+    color: black;
+    background-image: linear-gradient(90deg, violet, royalblue)
+}
+
+footer{
+    background-color:midnightblue;
+}
+
+.foot{
+    text-decoration: none;
+    color: white;
+}
+
+.foot:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+.footer ul{
+    padding: 20px 0px 0px 0px;
+    list-style-type: none;
+    color: white;
+}
+
+.icon-style{
+    font-size: 25px;
+    color: white;
+}

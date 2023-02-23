@@ -1,0 +1,71 @@
+.navbar{
+    background-color: midnightblue;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+li{
+    list-style-type: none;
+}
+
+.checkout{
+    margin: auto;
+    height: 175px;
+    width: 300px;
+    border-style: solid;
+    border-color:midnightblue;
+}
+
+h2{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.checkout .text{
+    text-align: center;
+}
+
+.moretext{
+    padding-left: 2px;
+}
+
+.form-container{
+    padding-left: 100px;
+    padding-bottom: 20px;
+}
+
+.form-container p{
+    display: none;
+}
+
+footer{
+    background-color:midnightblue;
+}
+
+.foot{
+    text-decoration: none;
+    color: white;
+}
+
+.foot:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+ul{
+    padding: 20px 0px 0px 0px;
+    list-style-type: none;
+    color: white;
+}
+
+.icon-style{
+    font-size: 25px;
+    color: white;
+}

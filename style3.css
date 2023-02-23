@@ -1,0 +1,58 @@
+.navbar{
+    background-color: midnightblue;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+li{
+    list-style-type: none;
+}
+
+.column1 {
+    float: left;
+    width: 30%;
+}
+
+.column2{
+    float: left;
+    width: 70%;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    padding: 0px 40px 0px 40px;
+}
+
+footer{
+    background-color:midnightblue;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
+.foot{
+    text-decoration: none;
+    color: white;
+}
+
+.foot:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+ul{
+    padding: 20px 0px 0px 0px;
+    list-style-type: none;
+    color: white;
+}

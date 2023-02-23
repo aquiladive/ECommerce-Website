@@ -1,0 +1,118 @@
+.navbar{
+    background-color: midnightblue;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.dropdown{
+    text-align: right;
+}
+
+li{
+    list-style-type: none;
+}
+
+.clear{
+    height: 5px;
+}
+
+.carousel-inner img{
+    height: 500px;
+}
+
+.carousel-inner{
+    position: relative;
+}
+
+.center{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    text-shadow: 3px 3px black;
+}
+
+h2{
+    margin-left: 60px;
+}
+
+.browse{
+    color: black;
+    text-decoration: none;
+}
+
+.owl-carousel{
+    padding: 10px 0px 0px 50px;
+}
+
+.owl-carousel a{
+    text-decoration: none;
+    color: black;
+}
+
+.owl-carousel .bitem{
+    object-fit: fill;
+    width: 220px;
+    height: 540px;
+    align-items: center;
+}
+
+.owl-carousel .bitem:hover{
+    border-style: solid;
+    border-color: gray;
+    border-width: 2px;
+}
+
+.owl-carousel .bitem .card{
+    height: 535px;
+}
+
+.owl-carousel .bitem .card .bimage{
+    height: 350px;
+}
+
+.owl-carousel .bname{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.owl-carousel .price{
+    text-align: center;
+}
+
+.buy{
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    background-color: midnightblue;
+}
+
+.foot{
+    text-decoration: none;
+    color: white;
+}
+
+.foot:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+ul{
+    padding: 20px 0px 0px 0px;
+    list-style-type: none;
+    color: white;
+}
+
+.icon-style{
+    font-size: 25px;
+    color: white;
+}

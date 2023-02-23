@@ -1,0 +1,99 @@
+.navbar{
+    background-color: midnightblue;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+    text-decoration: underline;
+}
+
+.dropdown{
+    text-align: right;
+}
+
+li{
+    list-style-type: none;
+}
+
+.col-2{
+    padding: 100px 0px 0px 60px;
+}
+
+.col-1{
+    width: 30px;
+}
+
+.col-9{
+    padding: 100px 0px 0px 60px;
+    border-style: none none none solid;
+    border-right-color: midnightblue;
+    border-right-width: 2px;
+}
+
+.img {
+    height: 210px;
+    width: 135px;
+    margin-left: 1%;
+    float: left;
+}
+
+.oimg {
+    height: 220px;
+    width: 200px;
+    margin-right: 1%;
+    float: left;
+}
+
+.book {
+    width: 100%;
+    height: auto;
+    padding: 2%;
+    padding-bottom: 10px;
+}
+
+.book .details {
+    margin-left: 160px;
+}
+
+.book .details .price{
+    color: red;
+    font-size: larger;
+}
+
+h5 {
+    margin: 0px;
+}
+
+.book .details a {
+    text-decoration: none;
+    color: white;
+}
+
+footer{
+    background-color:midnightblue;
+}
+
+.foot{
+    text-decoration: none;
+    color: white;
+}
+
+.foot:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+ul{
+    padding: 20px 0px 0px 0px;
+    list-style-type: none;
+    color: white;
+}
+
+.icon-style{
+    font-size: 25px;
+    color: white;
+}
