@@ -17,7 +17,7 @@ This was made using HTML, CSS and a bit of JavaScript. It also makes use of open
 
 
 ## Setup
-None. Open "main.html" to start browsing the site from its main page.
+None. Open "mainpage.html" to start browsing the site from its main page.
 
 
 ## Other Info
